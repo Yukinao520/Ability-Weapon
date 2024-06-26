@@ -1,4 +1,4 @@
-# English|[中文](/README-ZH.md) 
+# English|[中文](/README-ZH.md)
 # Ability-Weapon
 MC mod based on **Mcreator** creation.
 
