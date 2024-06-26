@@ -20,7 +20,7 @@ I don't have the extra energy and time to fix the various problems with the **Mc
 
 ~~Problems arising from the use of this mod, if there is a bug log report that mentions a problem arising from this mod, then I apologize for the problem due to my lack of competence~~
 
-
+**You should go to the issue tracker when an error occurs, not ignore the bug report**
 
 # Issue tracker
 Create an issue tracker where you can ask questions about using the mod.
