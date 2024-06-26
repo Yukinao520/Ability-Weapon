@@ -21,7 +21,9 @@ I don't have the extra energy or time to fix the various hard to fix or even unf
 
 ~~Problems arising from the use of this mod, if there is a bug log report that mentions a problem arising from this mod, then I apologize for the problem due to my lack of competence~~
 
-**You should go to the issue tracker when an error occurs, not ignore the bug report**
+*You should go to the issue tracker when an error occurs, not ignore the bug report*
+
+**tips:This module requires geckolib as a precursor to work properly!**
 
 # Issue tracker
 Create an issue tracker where you can ask questions about using the mod.
