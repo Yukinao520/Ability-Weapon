@@ -1,3 +1,4 @@
+# [English]|中文(/README.md)
 # 异能武器
 基于**Mcreator**创建的MC模组
 
