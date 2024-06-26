@@ -9,9 +9,13 @@ I don't have the extra energy and time to fix the various problems with the **Mc
 
 # About Mod
 **This mod includes but is not limited to:**
+
 *Very poorly optimized*
+
 *Very haphazard logic*
+
 *Very many unbalanced weapons*
+
 *Very lazy author*
 
 ~~Problems arising from the use of this mod, if there is a bug log report that mentions a problem arising from this mod, then I apologize for the problem due to my lack of competence~~
@@ -20,5 +24,6 @@ I don't have the extra energy and time to fix the various problems with the **Mc
 
 # Issue tracker
 Create an issue tracker where you can ask questions about using the mod.
+
 You can also contact me:
 Email:2586678921@qq.com
