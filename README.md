@@ -1,3 +1,4 @@
+# English|[中文](/README-ZH.md) 
 # Ability-Weapon
 MC mod based on **Mcreator** creation.
 
@@ -5,7 +6,7 @@ This mod builds the base file based on Mcreator and exports external builds
 
 This mod is going to be very many vulnerabilities and flawed.
 Don't expect me to do well. ~~Buddy, I'm just bored~~
-I don't have the extra energy and time to fix the various problems with the **Mcreator** itself, this mod is just to realize the idea of friends
+I don't have the extra energy or time to fix the various hard to fix or even unfixable problems that **McCreator** itself comes with, and this mod was initially just a realization of an idea my friend and I had
 
 # About Mod
 **This mod includes but is not limited to:**
