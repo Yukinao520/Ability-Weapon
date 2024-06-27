@@ -23,7 +23,7 @@ I don't have the extra energy or time to fix the various hard to fix or even unf
 
 *You should go to the issue tracker when an error occurs, not ignore the bug report*
 
-**tips:This module requires geckolib as a precursor to work properly!**
+**tips:This mod requires geckolib as a precursor to work properly!**
 
 # Issue tracker
 Create an issue tracker where you can ask questions about using the mod.
